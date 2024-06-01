@@ -3,4 +3,6 @@ En este tp diseñe una red neuronal que predice si una persona es obesa o no lo 
 
 La correlacion no es la mejor pero pude lograr una media de precision del 92% utilizando las filas de datos indicadas
 
+La base de datos tiene varios tipos de niveles de exceso de peso u obesidad, fueron reducidos en "Obeso" y "No obeso" para la simplificacion de la red neuronal 
+
 ![Flaco_y_gordo](https://github.com/ThiagoMatra/Tp_Final_Mate3/assets/163208879/984ff73d-2c10-4054-afcb-e329b605dae9)
